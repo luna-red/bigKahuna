@@ -1,3 +1,3 @@
 # bigKahuna
 
-### setting up a starter frame for developing an Ionic app.
+### Setup for a starter frame for developing an Ionic app.
